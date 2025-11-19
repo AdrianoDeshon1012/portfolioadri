@@ -8,8 +8,13 @@ const works = [
   },
   {
     img: "/project2.png",
-    title: "Fashion Store",
-    desc: "E-commerce website built with React",
+    title: "Malika Fashion Store",
+    desc: "Fashion & E-commerce website built with React",
+  },
+  {
+    img: "/project3.png",
+    title: "Colorfy",
+    desc: "Color palletes templates website built with Next.js",
   },
 ];
 

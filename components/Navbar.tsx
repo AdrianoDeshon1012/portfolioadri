@@ -12,7 +12,7 @@ export default function Navbar() {
     >
       <div className="max-w-6xl mx-auto flex justify-between items-center px-6 py-3">
         <h1 className="font-bold text-2xl text-cyan-400">
-          Adriano<span className="text-gray-300"> Dev</span>
+          Adriano<span className="text-gray-300"> Deshon</span>
         </h1>
         <ul className="flex space-x-6 text-gray-300 font-medium">
           {["Home", "About", "Portfolio", "Skills", "Contact"].map((item) => (
